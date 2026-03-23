@@ -24,7 +24,7 @@
 
 ## BIO
 
-- 🎓 **[Your Degree]** from **[Your University]**
+- 🎓 COMPUTER SCIENCE AND ENGINEERING from SNS COLLEGE OF TECHNOLOGY
 - 🔍 Passionate about **finding hidden patterns, rules and knowledge from a dataset**
 - 🌱 Learning all about **Artificial Intelligence** and **Cyber Security**
 - 🌟 Contributing to **Open Source** and **Deep Learning**
